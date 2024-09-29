@@ -576,7 +576,7 @@ progress {
 .img-fluid {
     max-width: 100%;
     height: auto;
-    Border-radius: 50% !important;
+    border-radius: 50%;
 }
 
 .img-thumbnail {
@@ -641,14 +641,13 @@ progress {
 }
 
 .row {
-    --bs-gutter-x: 2rem;
+    --bs-gutter-x: 1.5rem;
     --bs-gutter-y: 0;
     display: flex;
     flex-wrap: wrap;
-    justify-content: flex-start;
     margin-top: calc(-1 * var(--bs-gutter-y));
-    margin-right: calc( -7 * var(--bs-gutter-x));
-    margin-left: calc(0 .5 * var(--bs-gutter-x));
+    margin-right: calc(-.5 * var(--bs-gutter-x));
+    margin-left: calc(-.5 * var(--bs-gutter-x))
 }
 
 .row>* {
