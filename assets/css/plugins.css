@@ -1332,7 +1332,7 @@ progress {
 
     .col-lg-6 {
         flex: 0 0 auto;
-        width: 40%;
+        width: 50%
     }
 
     .col-lg-7 {
@@ -7669,7 +7669,7 @@ textarea.form-control-lg {
 }
 
 .mt-4 {
-    margin-top: 1.5rem!important;
+    margin-top: 1.5rem!important
 }
 
 .mt-5 {
@@ -8267,7 +8267,7 @@ textarea.form-control-lg {
 }
 
 .rounded {
-    border-radius: .25rem!important
+    border-radius: .25rem!important;
 }
 
 .rounded-0 {
@@ -10030,7 +10030,7 @@ textarea.form-control-lg {
     }
 
     .mb-lg-0 {
-        margin-bottom: 0!important;
+        margin-bottom: 0!important
     }
 
     .mb-lg-1 {
